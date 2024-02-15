@@ -1,7 +1,8 @@
 # Tag Gateway
 
 ## Installation instructions: 
-''' ./build.sh ```
+``` ./build.sh ```
+
 Input sudo password to install required files and the binary
 
 ## Running
