@@ -1,9 +1,10 @@
 # Tag Gateway
 
 ## Installation instructions: 
+In the repo root execute the build script to build the binary.
 ``` ./build.sh ```
 
-Input sudo password to install required files and the binary
+Input the sudo password to install the required files as well as the binary
 
 ## Running
 ```tag_gateway```
