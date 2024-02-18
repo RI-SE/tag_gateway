@@ -24,7 +24,9 @@
 </body>
 <script>
   // Create socket connection
-  const socket = new WebSocket("wss://10.211.211.168:8443/ws");
+  var host = location.host;
+  console.log(host);
+  const socket = new WebSocket("wss://" + host + "/ws");
 
   const { createApp, ref } = Vue
 
